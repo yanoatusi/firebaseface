@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233805009883",
+    "firebase_url": "https://face-bab00.firebaseio.com",
+    "project_id": "face-bab00",
+    "storage_bucket": "face-bab00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233805009883:android:32a3df25314d6392e30dfe",
+        "android_client_info": {
+          "package_name": "com.websarva.wings.android.firebaseface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233805009883-53pdbovl3b7ss534bvv4uvjfla5s9h29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIr-mP3K5p50i4_LjQfWTaOrUnJK2XcKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233805009883-53pdbovl3b7ss534bvv4uvjfla5s9h29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
